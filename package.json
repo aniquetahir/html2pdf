@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "main.js",
   "dependencies": {
+    "easy-pdf-merge": "^0.2.2",
     "puppeteer": "^3.0.4"
   }
 }
